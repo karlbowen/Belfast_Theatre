@@ -19,7 +19,8 @@
          <p> </p>
          
          <h5> Location </h5>  
-         
+         Situated on the northernly side of Belfast's Golden Mile the Belfast Theatre is situated on Great Victoria Street close to the famous Europa Hotel. <br>
+           
          <p> </p> 
          
         </div>
